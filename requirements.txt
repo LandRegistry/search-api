@@ -1,0 +1,13 @@
+Flask==0.12.4
+Flask-LogConfig==0.4.2
+Flask-Script==2.0.5
+requests==2.20.0
+Flask-SQLAlchemy==2.1
+SQLAlchemy==1.0.13
+GeoAlchemy2==0.4.0
+psycopg2==2.6.2
+Flask-Migrate==1.8.0
+alembic==0.8.6
+shapely==1.6b2
+git+https://github.com/LandRegistry/jwt-validation.git@v1.1.0
+git+https://github.com/LandRegistry/llc-schema-dto.git@v1.0.11

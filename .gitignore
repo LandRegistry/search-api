@@ -1,0 +1,16 @@
+# User-specific stuff:
+.idea/
+*.iml
+.DS_Store
+
+# Locally generated python files
+__pycache__/
+*.pyc
+.coverage
+.cache/
+.project
+.pydevproject
+
+venv/
+/.env
+/.vscode/
